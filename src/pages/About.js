@@ -62,7 +62,7 @@ function About() {
             </a>
         </Tippy>
         <Tippy content="Resume">
-            <a href={"https://github.com/markmckenna37"}>
+            <a href={"https://docs.google.com/document/d/1pEswtUqygJhLMWVWgKJunjudw75fTIAuYp2Pu53s4X8/edit?usp=sharing"}>
             <RiFilePaper2Line style={{width: 75, height: 75}}/>
             </a>
         </Tippy>

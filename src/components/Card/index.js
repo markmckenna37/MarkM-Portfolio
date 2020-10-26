@@ -1,6 +1,7 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import "./style.css";
+import { AiFillGithub } from "react-icons/ai";
 
 function PortfolioCard(props) {
   return (
@@ -12,8 +13,12 @@ function PortfolioCard(props) {
         <Card.Text>{props.description}</Card.Text>
       </Card.Body>
       <Card.Body>
-        <Card.Link href="#">{props.ghLink}</Card.Link>
-        <Card.Link href="#">{props.liveLink}</Card.Link>
+        {/* <a href={props.ghLink}>
+        <AiFillGithub/>
+        </a>
+        <a href={props.ghLink}>
+        <AiFillGithub href={props.liveLink}/>
+        </a> */}
       </Card.Body>
     </Card>
     </div>

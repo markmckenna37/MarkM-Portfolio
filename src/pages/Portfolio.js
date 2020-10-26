@@ -10,8 +10,8 @@ class Portfolio extends Component {
           image={"https://i.imgur.com/f86TDdF.jpg"}
           title={"Zelda: OOT Randomizer Tracker"}
           description={"An MERN stack app that assists players by helping to track items and progression"}
-          ghLink={"https://github.com/markmckenna37/Zelda-Item-Tracker"}
-          liveLink={"https://polar-springs-38669.herokuapp.com/"}
+          // ghLink={"https://github.com/markmckenna37/Zelda-Item-Tracker"}
+          // liveLink={"https://polar-springs-38669.herokuapp.com/"}
         ></PortfolioCard>
         <PortfolioCard
           image={"https://i.imgur.com/n83mB1C.png"}
