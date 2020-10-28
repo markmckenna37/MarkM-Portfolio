@@ -26,9 +26,7 @@ function About() {
         <Row>
           <Col size="md-12">
             <p>
-              I am a Full Stack JavaScript Web Developer, currently open to new
-              software development roles. I want to use my skills help other
-              businesses and artists grow their brand and messages. Ideal
+             I am a web developer with a love for music and art, and a knack for creative problem solving. I want to use my skills and experience to help others grow their brand and messages while learning aggressively every day. Recently received a Full-Stack Web Development certification from Denver University Ideal
               positions include JavaScript, back end Node.js development, and
               SQL or NoSQL (MongoDB) with cloud services.
             </p>
@@ -38,9 +36,20 @@ function About() {
               existing games.
             </p>
             <p>
-              Languages: JavaScript, HTML, CSS, Frameworks: Node.js, NPM,
-              Express, React, Cloud Services: Heroku Data Models: MySQL,
-              Sequelize, MongoDB, Mongoose, CRUD
+              <ul>
+                <li>
+                Languages: JavaScript, HTML, CSS, MATLAB
+                </li>
+                <li>
+                Frameworks: ReactJS, NodeJS, NPM, Express
+                </li>
+                <li>
+                Cloud Services: Heroku, Git
+                </li>
+                <li>
+                Data Models: MySQL, Sequelize, MongoDB, Mongoose, CRUD
+                </li>
+              </ul>
             </p>
 
           </Col>
